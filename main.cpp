@@ -1,11 +1,10 @@
 //************************************  PROGRAM IDENTIFICATION  ***************************************
 //*                                                                                                   *
-//*   PROGRAM FILE NAME:  program1.cpp          ASSIGNMENT #:  1            Grade: _________          *
+//*   PROGRAM FILE NAME:  main.cpp                                                                    *
 //*                                                                                                   *
 //*   PROGRAM AUTHOR:     __________________________________________                                  *
 //*                                     Alexandru Andrei                                              *
 //*                                                                                                   *
-//*   COURSE #:  CSC 24400 11                              DUE DATE:  September 9, 2016               *
 //*                                                                                                   *
 //*****************************************************************************************************
 
