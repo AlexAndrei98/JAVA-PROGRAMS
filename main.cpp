@@ -69,10 +69,7 @@ void Header(ofstream &outfile)
     // Task - Prints the output preamble
     // Returns - Nothing
     outfile << setw(25) << "Alexandru Andrei"<<endl;
-    outfile << setw(25) << "CSC 24000"<< endl;
-    outfile << setw(25) << "Section 11" << endl;
     outfile << setw(25) << "Fall 2016"<< endl;
-    outfile << setw(25) << "Assignment 1"<< endl;
     outfile << setw(25) << "-------------------------" << endl;
     outfile << setw(25) << "-------------------------" << endl;
     return;
